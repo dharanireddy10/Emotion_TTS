@@ -1,0 +1,6 @@
+gradio
+git+https://github.com/coqui-ai/TTS.git@v0.22.0
+transformers==4.38.2
+scipy==1.11.4
+torch==2.5.1
+torchaudio==2.5.1
